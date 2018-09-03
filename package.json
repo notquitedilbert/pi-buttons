@@ -24,6 +24,7 @@
   "homepage": "https://github.com/notquitedilbert/pi-buttons#readme",
   "dependencies": {
     "express": "4.16.3",
+    "nodemon": "1.18.4",
     "shelljs": "0.8.2"
   }
 }
