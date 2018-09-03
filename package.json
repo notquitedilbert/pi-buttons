@@ -1,0 +1,29 @@
+{
+  "name": "pi_buttons",
+  "version": "1.0.0",
+  "description": "a test to see if I can run a script on the server from a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notquitedilbert/pi-buttons.git"
+  },
+  "keywords": [
+    "pi",
+    "buttons",
+    "web",
+    "server"
+  ],
+  "author": "andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notquitedilbert/pi-buttons/issues"
+  },
+  "homepage": "https://github.com/notquitedilbert/pi-buttons#readme",
+  "dependencies": {
+    "express": "4.16.3",
+    "shelljs": "0.8.2"
+  }
+}
